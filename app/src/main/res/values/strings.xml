@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea12</string>
+    <string name="hello_world">Banner!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_banner">ca-app-pub-4302504334301946/3961857916</string>
+    <string name="facebook_app_id">176405322783371</string>
+</resources>
